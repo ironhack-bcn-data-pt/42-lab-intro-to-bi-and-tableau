@@ -1,0 +1,3 @@
+
+#every viz has been saved in the Metadata option below 
+https://public.tableau.com/profile/paula3345#!/vizhome/Lab-42-Intro-to-BI-and-Tableau/AvgWarehousesalesbyItem
