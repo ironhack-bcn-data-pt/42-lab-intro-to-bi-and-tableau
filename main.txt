@@ -1,0 +1,4 @@
+[42-lab-intro-to-bi-and-tableau]
+
+
+https://public.tableau.com/profile/anna6160#!/vizhome/LabIntroductiontoBIandTableauliquor_store_sales/LiquorStoreSales
