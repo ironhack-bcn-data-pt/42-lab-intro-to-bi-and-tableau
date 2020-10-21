@@ -1,0 +1,4 @@
+https://public.tableau.com/views/DataBootcamp-Lab41/Sheet12?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+
+What's happening with the "months"? The Readme never said anything to convert months numbers into string or whatever.
+Sorry for my lack of creativity. I will get more inspiration with practise.
