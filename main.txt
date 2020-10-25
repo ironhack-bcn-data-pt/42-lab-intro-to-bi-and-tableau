@@ -1,0 +1,3 @@
+Link to Tableau project:
+
+https://public.tableau.com/profile/lola6029#!/vizhome/42-lab-intro-to-bi-and-tableau/TotalRetailSalesbyYearMonth?publish=yes
